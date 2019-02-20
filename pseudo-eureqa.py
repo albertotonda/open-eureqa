@@ -247,6 +247,12 @@ def main() :
 			random_state=random_state,
 		)	
 	
+	# iterate over the final population, print and TODO plot the entire Pareto front
+	print("Final Pareto front:")
+	for individual in final_pop :
+		print("\t- Best complexity: \"%s\", complexity: %d, error: %.4f" % (individual.candidate, individual.fitness[1], individual.fitness[0]))
+		
+	
 	
 	return
 
