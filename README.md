@@ -1,4 +1,4 @@
-# pseudo-eureqa
+# open-eureqa
 
 The basic idea of this project is to re-create at least *some* functionalities of the commercial software Eureqa Formulize, building on existing Python packages that provide utilities for Genetic Programming (gplearn) and multi-objective evolutionary optimization à la NSGA-II (inspyred).
 
