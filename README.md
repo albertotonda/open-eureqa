@@ -1,3 +1,6 @@
+# IMPORTANT UPDATE
+This project is officially abandoned, as an open-source alternative to Eureqa has emerged in the last few years: PySR, https://github.com/MilesCranmer/PySR ; I strongly encourage anyone interested in complexity/fitting Pareto optimal symbolic regression to check it out, it's fantastic!
+
 # open-eureqa
 
 The basic idea of this project is to re-create at least *some* functionalities of the commercial software Eureqa Formulize, building on existing Python packages that provide utilities for Genetic Programming (gplearn) and multi-objective evolutionary optimization à la NSGA-II (inspyred).
